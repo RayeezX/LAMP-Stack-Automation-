@@ -16,8 +16,6 @@ This project automates the installation and configuration of a **LAMP stack** (L
   - **PHP** (Server-side scripting)  
 - Configures Apache to serve PHP files  
 - Sets up a test PHP page (`info.php`)  
-- Logs all actions for easy debugging  
-- Optional firewall setup using UFW  
 
 ---
 
@@ -28,6 +26,3 @@ This project automates the installation and configuration of a **LAMP stack** (L
 - Database setup and security  
 - Logging and debugging  
 
----
-
-## 📁 Project Structure
